@@ -5,7 +5,7 @@ course content. It finds Panopto lecture videos and PDF slides, lets you choose
 videos, slides, or both, and saves them in a folder named after the module or
 page inside your browser's downloads directory.
 
-Originally built for JHU, it now detects Canvas and Panopto sites automatically,
+Originally built for my grad courses at Johns Hopkins Canvas course content, it now detects Canvas and Panopto sites automatically,
 including custom university domains. No university addresses or settings need
 to be entered.
 
